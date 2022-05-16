@@ -1,13 +1,16 @@
 ---
 author: Chris Godwin
 category: Culture
-title: What OpenSource? Why is it Better or Needed
+title: What OpenSource? Why is it Good or Needed
 tag: vision
-time: 2022-04-27
+time: 2022-05-16
 copyright:
   minLength: 1
 ---
-# What is OpenSource? Why is it Better or Needed
+# What is OpenSource Religion? Why is it Good or Needed
+
+> "Culture is your operating system."
+> - Terrance Mckenna
 
 ## What is Open Source?
 'Open source', 'Opensource', and 'Free and Open Source Software'(FOSS) are terms
@@ -37,18 +40,28 @@ A group of people taking a heritage they have access and rights to, tracking it
 with perfect diligence, defining the praxes and precedents of it, and making it
 available for acculturation, takes a bite out of appropriation. It doesn't just
 pay it lip-service by a technical and legal loophole, open-sourcing a culture,
-like open-sourcing software, eliminates the number of imitators because they
-can just get the real T.
+like open-sourcing software, eliminates the number of imitators because they can
+just get the real detailed information.
 
-In our modern world, especially in North America, we are in a culture which produces
-people who are longing and yearning for connection to something deeply rooted.
-If you don't give them good information, they will imitate what they see and
-fill in the holes.
+In our modern world, especially in North America, we are in a culture which
+produces people who are longing and yearning for connection to something deeply
+rooted. If you don't give them good information, they will imitate what they see
+and fill in the holes.
 
 It's bigger than simply the idea that indigenous people have nicer ceremonies
 and we want them too. Often I see reconstructions looking like American-Indian
 lookalikes, replacing warpaint with runes and headdresses with leather dangles.
 A great number of American-Indians perform ceremony in suits or jeans because
 materialism is a western ideal. The clothes making the man is not a tenant of
-cultures which are dwelling in the same place where the homeland of their
-language was fo
+cultures which are dwelling in the same place as the homeland of their language.
+
+Therefore, acculturation to something new and complex involves changing
+fundamental ideas at the root of your worldview. We cannot control, nor do we
+wish to control, what other people do with this repository. What we can do is
+place restrictions on closing these texts, make sure the texts contain valuable
+and accurate information, and promote a certain set of attitudes that when held
+creates a sacred and respectable Celtic Paganism within most people.
+
+### Acculturation
+
+The process of acculturating to this 
