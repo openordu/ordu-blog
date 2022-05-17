@@ -9,59 +9,90 @@ copyright:
 ---
 # What is OpenSource Religion? Why is it Good or Needed
 
-> "Culture is your operating system."
-> - Terrance Mckenna
-
 ## What is Open Source?
 'Open source', 'Opensource', and 'Free and Open Source Software'(FOSS) are terms
 for an idea that sets of computer instructions are better off free to be used
 and improved by the community. Free secondarily means free as in free beer.
-Primarily it means it is without restriction or it come with as few restrictions
-as possible. As it turns out, FOSS tends to be better because more eyes are on
-it. It's less vulnerable to third parties injecting malicious instructions into
-the set because of this, those vulnerabilities can be fixed and re-released
-instantly because the community isn't concerned with product launches, go-lives
-or developed at a more rapid pace than private software.
+Primarily it means it is without restriction or it comes with as few
+restrictions as possible. As it turns out, FOSS tends to be better because more
+eyes are on it. It's less vulnerable to third parties injecting malicious
+instructions into the set because of this, those vulnerabilities can be fixed
+and re-released instantly because the community isn't concerned with product
+launches, go-lives or developed at a more rapid pace than private software.
+
+
+> "Culture is your operating system."
+> - Terrance Mckenna
+
 
 ## What this has to do with Celtic Paganism?
 Culture isn't different from software in that sets of instructions are analogous
 with sets of behavior. Instruction is a bat term for a line of code because the
 processor is compelled by physics to perform the instruction.
 
+Treating culture like software, with vulnerabilities and features, with tools
+and tasks, as a process which yields behavior and experience as outputs, we can
+see that it suffers from the same problems software does, albeit in analogy.
+Culture can benefit from openness, tracking, freedom, and licensing exactly like
+software can.
+
+## Can be widely used
+If something can be widely used by more minds, it will have more thinking power
+and thus innovation behind it. Whatever the project, open sourcing anything
+makes it better.
+
+## Responsive
+The community produces the product in an opensource project. Issues are filed
+and discussed, changes are proposed and made; this continuous iteration over
+feedback and production makes the project's growth a response to how the
+community uses it. Other Druid & Pagan orders are prescriptive rather than
+responsive.
+
+## Financial Advantages
+You don't need to pay for a membership for training. You could write a fiction
+book based on this lore or these texts and not need to pay us. You could start a
+paid membership based druid order forking this project as a basis of some public
+gnosis while putting initiate gnosis behind a paywall. This work gives your
+freedom over it while also granting you freedom to make money from it.
+
+## Future-proof
+As a responsive, space aged, git project, you can take this code anywhere. It
+can live on a chip, a disk, a processor. You could send the entirety of Public
+Celtic Mythos here into orbit, reading out its contents in morse code. I'm
+excited to see what people might do with Free and Open Source Religion(FOSR) as
+fun anthropological experiments.
+
+## Transparency
+You will never get to the end of a progression in this religion and find out
+that we _really_ believe in a figure like Xenu, or 
+
+## Availability
+You'll never not have access to the github project.
+
+## Unmanaged
+If a change is good, and a certain number of approvers agree on it, the software
+uses devops and git ops to deploy itself. The code merges itself and really this
+is all done by clicking buttons in a sequence per a process after reading
+proposed changes. The hardest part is discussing your change's precedence.
+
+## Scale
+This text and these practices can work for small groups and large groups after
+some modification and you have the freedom to call it the same thing, despite
+these modifications.
+
+## Speed
+Changes don't take long to make. Not Ent length meetings or waiting for a
+festival or group meeting to make changes. If it looks good on paper and is well
+explained, we can grow this order speedier than an oak, like magicians ought.
+
+## Secure
+Insecure egoic priests who thirst for attention and use Celtic Paganism to
+satiate that desire, won't do well here when folks are on equal footing as
+contributors and we use a certain statistical number of approvers. These kinds
+of priests operate partly in the dark. FOSR's transparent and democratic nature
+secures it against well or bad intentioned trouble-makers and secures it from
+harmful practices entering the body of praxes here.
+
 An open-access culture which doesn't operate in the dark can avoid systemic
 abuses traditionally expected to be found in churches, orthodox, evangelical or
-mormon societies. Treating culture like software, with vulnerabilities and
-features, with tools and tasks, as a process which yields behavior and
-experience as outputs. Culture can benefit from openness, tracking, freedom, and
-licensing exactly like software can.
-
-### Appropriation
-A group of people taking a heritage they have access and rights to, tracking it
-with perfect diligence, defining the praxes and precedents of it, and making it
-available for acculturation, takes a bite out of appropriation. It doesn't just
-pay it lip-service by a technical and legal loophole, open-sourcing a culture,
-like open-sourcing software, eliminates the number of imitators because they can
-just get the real detailed information.
-
-In our modern world, especially in North America, we are in a culture which
-produces people who are longing and yearning for connection to something deeply
-rooted. If you don't give them good information, they will imitate what they see
-and fill in the holes.
-
-It's bigger than simply the idea that indigenous people have nicer ceremonies
-and we want them too. Often I see reconstructions looking like American-Indian
-lookalikes, replacing warpaint with runes and headdresses with leather dangles.
-A great number of American-Indians perform ceremony in suits or jeans because
-materialism is a western ideal. The clothes making the man is not a tenant of
-cultures which are dwelling in the same place as the homeland of their language.
-
-Therefore, acculturation to something new and complex involves changing
-fundamental ideas at the root of your worldview. We cannot control, nor do we
-wish to control, what other people do with this repository. What we can do is
-place restrictions on closing these texts, make sure the texts contain valuable
-and accurate information, and promote a certain set of attitudes that when held
-creates a sacred and respectable Celtic Paganism within most people.
-
-### Acculturation
-
-The process of acculturating to this 
+mormon societies. 
