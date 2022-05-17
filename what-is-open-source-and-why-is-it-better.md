@@ -25,7 +25,7 @@ launches, go-lives or developed at a more rapid pace than private software.
 > - Terrance Mckenna
 
 
-## What this has to do with Celtic Paganism?
+## What does this have to do with Celtic Paganism?
 Culture isn't different from software in that sets of instructions are analogous
 with sets of behavior. Instruction is a bat term for a line of code because the
 processor is compelled by physics to perform the instruction.
