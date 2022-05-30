@@ -10,16 +10,15 @@ copyright:
 - [x] Write an algorythm that charts the topography of Celtic Paganism from well used websites(tairis, lairban.blogspot, celt.ucc.ie, maryjones.us, imbas.org).
 - [x] create an [opensource culture license](/license).
 - [x] Finish Vision
-- [ ] Create a quick start guide
+- [x] Create a quick start guide
 - [x] Organize navigation based on principles and best practices
 - [x] Generate md pages automatically
-- [ ] per the topography of topics, add related links to md files
+- [ ] Import JCE pages
 - [x] Come up with a solution to include related terms in items
-- [ ] Include related terms in md files
 - [ ] Setup search through algoria
-- [ ] Creation a call for contributors page
+- [ ] Create a call for contributors page
 - [ ] Create a donation page
-- [ ] Create a vision post and page
-- [ ] Create some sort of contribution rules.
-- [ ] Create a call to action page for more admins
+- [ ] Create a vision post
+- [x] Create some sort of contribution rules.
+- [ ] Create a call to action page for more maintainers
 - [ ] Launch
