@@ -26,17 +26,17 @@ In 2015 I had a series(seven) of mystical experiences trying to recreate the
  second dream or vision that she is putting his entrails back in[^second].
  
 Having had this same vision as a man who lived more than twice seven centuries
- ago, I count it as one of my lived experiences that is seared into 
+ ago, I count it as one of my lived experiences that is seared into memory.
 
-Needless to say, I feel qualified and confidend in writing this letter.
+Needless to say, I feel qualified and confident in writing this letter.
 
 ## The Problem
 
 I have studied Neodruidism, the Celtic Reconstructionist Methodology and its
  subsequent religions, druidcraft(drycraeft), medeival witchcraft and folk
- magic, and more. I found my home with [ADF](http://www.adf.org) for a while but
- I feel differntly now. ADF prepared me to an extent, but it was the work and
- time of reconstructionists which help shaped me.
+ magic, and more. I found my only home with [ADF](http://www.adf.org) for a while but
+ I feel differently about that now. ADF prepared me to an extent, but it was the work and
+ time of members of the reconstructionist movement which help shaped me.
 
 I keep going back to Animism as a foundation of Polytheism as is apparent in the
  studies of Nurit Bird-David, Durkheim, Guthrie, and Strathern. There existed an
@@ -44,10 +44,10 @@ I keep going back to Animism as a foundation of Polytheism as is apparent in the
  scholars in medieval tradition and colloquial expression.
 
 I keep going back to the prevalent attitude among people that druid ritual and
- practice has nothing to do with folk magic even through one of its names is
- dreecraft after draoi. So in ADF you've got plenty of people calling themseves
- druids who don't like druidry(magic). If they're not into draiocht, then why is
- it in their name?
+ practice has nothing to do with folk magic even though one of its names is
+ dreecraft after draoi or druid. So in ADF you've got plenty of people calling
+ themselves druids who don't like druidry(magic). If they're not into draiocht,
+ then why is it in their name?
 
 I've invested in this idea of a high liturgy within polytheist practice as
  potentially recognizable by my ancestors. I still believe it, but I think it
