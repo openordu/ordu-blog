@@ -14,6 +14,12 @@ copyright:
 - [x] Organize navigation based on principles and best practices
 - [x] Generate md pages automatically
 - [ ] Import JCE pages
+- [ ] Import ctexts
+- [ ] Mini - SP
+- [ ] High Day Praxes
+- [ ] Daily Praxes
+- [ ] Prayers
+- [ ] Core Office of Ritual
 - [ ] Copy and pasteable instructions on running a local copy
 - [x] Come up with a solution to include related terms in items
 - [ ] Setup search through algoria
