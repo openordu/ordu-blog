@@ -1,7 +1,7 @@
 ---
 author: Chris Godwin
 category: Culture
-title: Attitudes towards Celtic Paganism & Celtic Pagans
+title: Noble Attitudes Toward Celtic Paganism
 tag: vision
 time: 2022-01-01
 copyright:
@@ -11,6 +11,9 @@ copyright:
 
 # Noble Attitudes Toward Celtic Paganism
 ## Anti-racist
+Non-racist isn't enough. Our order will never go fight battles on racism because
+that is not our projects goal. But one of our attitudes we take toward our goal
+is rooting out racism and racist attitudes within our own spaces.
 ## Anti-facist
 ## Celtophilia / Celtophobia
 ## Anti-credulity
@@ -32,8 +35,9 @@ copyright:
 ## religion changes on large time scales, core tenets of IE paganism are 1000s of years old, not days
 ## taking what's sacred and making it profane
 ## selling classes is hucksterism
-## proslyetizing is the mark of a charlatan, genuinely spiritual people don't do it.
-## American Indians ask us to got back to our own ways instead of adopt theirs
+## proselytizing is the mark of a charlatan, genuinely spiritual people don't do it.
+## advertizing to people interested in this stuff isn't proselytizing
+## American Indians ask us to go back to our own ways instead of adopting theirs
 ## New aged stuff makes people feel good, but healing happens where it hurts
 
 ### Acculturation
@@ -132,10 +136,10 @@ others, but such claims are basically made for internet keywords because that
 what people expect and search for. Additionally authority vocalization and
 language is the number one factor people use to judge authority. So its enticing
 to cast a circle of validity and lord over it. But this can't be done by people
-with a serious and intellegent mind who place authenticity with intellectual
+with a serious and intelligent mind who place authenticity with intellectual
 honesty.
 
-The fact that there are no practicers of original Celtic paganism, it puts
+The fact that there are no practicer of original Celtic paganism, it puts
 everyone on the same footing as an emulator.
 
 [^jennings]: https://www.youtube.com/watch?v=19JAMhAzXms
