@@ -187,8 +187,7 @@ You do not have to be part of one of these clans to join us. Membership within
  stay-in-your-own-lane religions always lead to the increase in racism. What we
  do is for everyone who loves it, even an Englishman who wants to reform himself
  into one of us. Your love for it is born of our Béan Sí and somehow it left
- her, traveled the world and entered you, making you our kin. After all, satan
- comes through the TV.
+ her, traveled the world and entered you, making you our kin.
 
 ### Name
 
