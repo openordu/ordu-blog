@@ -252,7 +252,7 @@ With a little bit of luck, the blessings of the Gods and a great deal of hard
 
 Béal o na nDeithe ort... Blessings of the Gods on you!
 
-Chris Godwin, Deághaidh Ó Déisi, Clan Chief, Ó Déiseanna
+Chris Godwin, Deághaidh Ó Déisi, Clan Chief, The Déiseanna
 
 
 [^first]: Rig-Veda. Mandalas 9—10. VIII, 48.3
