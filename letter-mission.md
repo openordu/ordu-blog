@@ -161,10 +161,10 @@ The Déisi also moved into Wales and Britain between 300 and 450 C.E making thre
  
  1. They were the original Celtic diasporans but in the 4th century.
  1. Time forges fake clans into real ones.
- 1. People of Celtic Descent across the entire Celtic spectrum of languages can
+ 1. People of any kind of Celtic descent across the entire Celtic spectrum of languages can
     claim to be descended from a tribe that exists only as an idea.
 
-Greece was divided into artificial tribes that by may by close proximity became
+Greece was divided into artificial tribes that by close proximity became
  real as communities when they switched to a Democratic government, making them
  something we can reconstruct.
 
