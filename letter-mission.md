@@ -111,12 +111,11 @@ Episcopagan is a term I use for pagans with no ritual ecstasis, and I have never
 People in the communities I'm involved with have no interest in ritual
  reformation, the science of group ecstasy, no interest in dropping questionable
  things like the "Norse Wheel of the Year". I feel like they completely miss the
- mark on some things. I have no faith in a single family of Indo-European paganisms
- anymore. Any time I've tried to build it, the Heathens screw it up. Modern
- Heathens have trouble maintaining honorable relationships. So instead of a
- family of articulated culture-specific hearths, groups like ADF are either
- culture-specific adverse pan-IE mush or Celts-with-friends. Celts-With-Friends
- means ADF is 90% Celtic with some non-celtic IE groups that get involved.
+ mark on some things. I have no faith in a single family of Indo-European
+ paganisms anymore. So instead of a family of articulated culture-specific
+ hearths, groups like ADF are either culture-specific adverse pan-IE mush or
+ Celts-with-friends. Celts-With-Friends means ADF is 90% Celtic with some
+ non-celtic IE groups that get involved.
 
 Celts-with-friends doesn't need a pan-IE motive or model, like what ADF has. You
  can focus all your druid energy on the Celts alone and still achieve this
