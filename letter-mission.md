@@ -33,26 +33,41 @@ Needless to say, I feel qualified and confident in writing this letter.
 ## The Problem
 
 I have studied Neodruidism, the Celtic Reconstructionist Methodology and its
- subsequent religions, druidcraft(drycraeft), medeival witchcraft and folk
+ subsequent religions, druidcraft(drycraeft), medieval witchcraft and folk
  magic, and more. I found my only home with [ADF](http://www.adf.org) for a while but
  I feel differently about that now. ADF prepared me to an extent, but it was the work and
  time of members of the reconstructionist movement which help shaped me.
 
-I keep going back to Animism as a foundation of Polytheism as is apparent in the
- studies of Nurit Bird-David, Durkheim, Guthrie, and Strathern. There existed an
- animistic polytheism which still demonstrates itself in the expressions of
- scholars in medieval tradition and colloquial expression.
+I keep going back to Animism as a missing foundation of Polytheism as is
+ apparent in the studies of Nurit Bird-David, Durkheim, Guthrie, and Strathern.
+ There existed an animistic polytheism which still demonstrates itself in the
+ expressions of scholars in medieval tradition and colloquial expression.
 
-I keep going back to the prevalent attitude among people that druid ritual and
- practice has nothing to do with folk magic even though one of its names is
- dreecraft after draoi or druid. So in ADF you've got plenty of people calling
- themselves druids who don't like druidry(magic). If they're not into draiocht,
- then why is it in their name?
+I also keep trying to escape the prevalent attitude among people that druid
+ ritual and practice has nothing to do with folk magic even though one of its
+ names is dreecraft after draoi or druid. So in some circles you've got plenty
+ of people calling themselves druids who don't like druidry(magic). If they're
+ not into draiocht, then why is it in their name? Magic and witchcraft have been
+ continually seen as being unrelated to the topic of druidry. At a corporate
+ meeting a former member of a druid group expressed he didn't like the
+ interpretation of draíocht as magic, even though that is the best translation
+ of the word.
 
 I've invested in this idea of a high liturgy within polytheist practice as
- potentially recognizable by my ancestors. I still believe it, but I think it
- has been executed in the most bland and not very Celtic way. I long for hearth
- rites and hill rites that recognize what is going on in folklore.
+ potentially recognizable by my ancestors. The ancestors who worshipped our gods
+ went straight into the days of the stowe missal's liturgy toward a high
+ liturgy. We'll never know for certain, but one can easily suspect from the
+ other pagan elements that underwent christianization, that these new liturgies
+ were just reused performances that are within the spectrum of human expression.
+ We can order items in this spectrum in a way that feels like our ancestors
+ would have recognized them and as a matter of belief in 'tribal totem as mind',
+ there is a part of our gods in us that can guide us if we recognize and listen
+ to them. I want a liturgy that recognizes the particular nature of the soul,
+ particular being literal here for 'having parts'.
+ 
+Often though, druidry and druid groups execute their rites in the most bland and
+ not very Celtic way. I long for hearth rites and hill rites that recognize what
+ is going on in folklore.
 
 ## The Solution
 
@@ -60,78 +75,62 @@ Jane E. Harrison, a Greek Scholar, says **myth is what is '_said_' while ritual
  is what is '_done_'**, and [Cat Heath](https://seohelrune.com/) posts
  descriptions of heathen spell-workings to her facebook account all which
  involve doing a charm act while saying or referencing parts of a folk-tale from
- which the magician has drawn an analogy directly to the outcome. Good spell
- outcomes are likened to the object won in myth, like Indra capturing Soma from
- the Ashuras, or releasing the rains after slaying Vtra. On either side of that
- is the act of you re-enacting the myth and reciting the myth.
+ which the magician has drawn an analogy directly to the outcome. In this model,
+ good spell outcomes are likened to the objects won in myth, like Indra
+ capturing Soma from the Ashuras, or releasing the rains after slaying Vtra. On
+ either side of that is the act of you re-enacting the myth and reciting the
+ myth.
 
-So this sense of a ritual order, the core of ADF's identity, that involves
+So this sense of a ritual order, the core of some groups' identities, that involves
  actions and invocations, and poetry and sometimes music, that opens, offers,
  blesses, and closes just doesn't work for me the way I've been doing it
  anymore. I need something closer to what the Mari in Russia have, what the
  Indian Nayakan have, and what the ancestors who worshiped our gods probably
- had.
+ had. I can feel what that is, though it isn't drawn out of the waters yet.
 
-I need a rite that consists of a dismemberment of primordial sacrifice and the
- magico-alchemical preparation of that into a blessing mostly in metered charm
- and sometimes unmetered charm. That is specifically a different thing than what
- ADF presents as its identity.
+I need a set of offices of rites which conceive of the full spectrum of animism
+ and polytheist scholarship, some of which consists of a dismemberment of
+ primordial sacrifice and the magico-alchemical preparation of that into a
+ blessing mostly in metered charm and sometimes unmetered charms, that pair with
+ myth as the Christian rites do. When the bread is broken and one half is
+ submerged into the chalice in the Celtic Rite, it is a mimicking action of the
+ crucifixion, and then the two halves are put back together it is a mimicking of
+ the resurrection. That is specifically a different thing than what existing
+ neodruid groups present as required to represent their identities. The
+ Christians are doing pagan better than than neopagans.
 
 ## More of the Problem
 
-Episcopagan is a term for pagans with no ritual ecstasis, and I have never done
- ritual outside a state of induced ecstasy. I'm very tired of Episcopaganism. I
- want my paganism to be a song on a spear.
+Episcopagan is a term I use for pagans with no ritual ecstasis, and I have never
+ done ritual outside a state of induced ecstasy. I'm very tired of
+ Episcopaganism. I want my paganism to be a song on a spear. Episcopagans are
+ avoidant of what excites them because they've spent little time in such states
+ and do not know how to inhibit themselves toward social climates while in them.
+ Episcopaganism falls along lines of privilege and pressure.
  
-The members of ADF have no interest in ritual reformation, they have no interest
- in dropping questionable things like the "Norse Wheel of the Year". When I read
- the founder's original open letter, I wonder why ADF has completely missed the
- mark on some of these things. ADF has not done well making a family of
- Indo-European paganisms, that experiment has failed. Instead they have created
- a culture-specific adverse pan-IE mush.
+People in the communities I'm involved with have no interest in ritual
+ reformation, the science of group ecstasy, no interest in dropping questionable
+ things like the "Norse Wheel of the Year". I feel like they completely miss the
+ mark on some things. I have no faith in a single family of Indo-European paganisms
+ anymore. Any time I've tried to build it, the Heathens screw it up. Modern
+ Heathens have trouble maintaining honorable relationships. So instead of a
+ family of articulated culture-specific hearths, groups like ADF are either
+ culture-specific adverse pan-IE mush or Celts-with-friends. Celts-With-Friends
+ means ADF is 90% Celtic with some non-celtic IE groups that get involved.
 
-While at an ADF corporate meeting, I witnessed a man asking me to de-emphasise
- magic because not all members believe in magic when I refered to Draoicht as
- magic, however, it is precisley the meaning of the word in its native language,
- in which ADF is named "Our Own Magic". This isn't representative of the whole
- to not believe in magic, however, ADF as a whole only focuses on theurgy.
- However, we can't find a theurgical v thaumaturgical distinction among the
- remnant pagan practices that prevade the medeival period. This habitual
- attitude to see druidry as having nothing whatever to do with Indo-European
- 'low' magic, nor having an interest to investigate its commonalities, is
- precisly what scratches on me like nails on chalkboard. I asked a former
- Archdruid about some of this and was encouraged to start a super niche subgroup
- about it.
+Celts-with-friends doesn't need a pan-IE motive or model, like what ADF has. You
+ can focus all your druid energy on the Celts alone and still achieve this
+ without trying.
 
-ADF has seemed to be now, slower than an oak in reconstructing the best view of
-what Paleopagans speaking a Celtic or Indo-European Language actually did. In
-1983 The Org set out to publish a journal on par with academic journals worth a
-value of $279 per year in todays money.
-
-This Journal was the Druid's Progress that eventually became Oak Leaves. I
- regard Oak Leaves as hardly worth the money I pay for it. I used to open it
- with excitement many years ago. This is not the fault of the production team or
- its contributors but rather the design of the Org as able to produce a journal
- for the cost charged. Originally selling for $20, it would be sold for $55
- dollars in today's money. I think this is a result of pagans thinking
- non-profit means no-gains and non-proslyletizing as no marketing. Never was
- there a religion that wasn't marketed. Since you're already dabbling in
- marketing if you're not willing to do it well and for a noble purpose, your org
- that you refuse to think about like a business will die. Druids are functions
- of tribes, tribes have tributes, tax, and an economy, even when subjegated by
- another kingdom.
+Groups like ADF seem to be slower than an oak in reconstructing the best view of
+ what Paleopagans speaking a Celtic or Indo-European Language actually did. In
+ 1983 The Org set out to publish a journal on par with academic journals worth a
+ value of $279 per year in today's money. This isn't what you get with Oak
+ Leaves.
 
 ## More of the Solution
 
-What can we do? Well I don't think you can repair something this broken, you
- have to replace it. That's a lot of work that we have to be sure we are ready
- for before we set out to do it. With my track record of devoted time to my
- craft and public paganism, I don't see what else I would do. Being
- open-sourced, the site that displays this cultural project, can be moved by
- people within either the open-source community who edits it or the spiritual
- communities that form around it. We'll create a non-profit Organization,
- produce study open-sourced materials, guides, a public Celtic encyclopedia all
- free as in free beer and free as in freedom to use, modify, grow and claim.
+What can we do? We fix it by creating an alternative.
  
 Thanks to the research of the Rees Brothers, the people who produce Duchas.ie,
 James MacKillop, John T. Koch, John Carey, Barry Cunliffe, Patricia Monaghan,
@@ -139,63 +138,41 @@ Danaher and Dáithí Ó hÓgáin, all the true folklorists of the Celtic Revival
 Period and Indo-European comparative scholars, we can just go about giving it a
 good old try at knowing what was done and why it was done.
 
-Since about 1983, ADF was the first major group trying to reconstruct what the
- paleopagan Indo-Europeans believed and fill in holes from that reconstruction
- where something was missing as a genuine 'religion' and by a 'church'. That
- methodology has only become more accepted overtime and has even been highly
- useful to understanding paganism in general. 
- 
-I've read so many books on this topic that I can recognize where comparativism
- has saturated every corner of folklore enabling those who oppose it also
- unwittingly rely on it, a fact I find quite amusing.
- 
-While some accept the work of Georges Dumezil, other's find it not useful. Yet
- no one has refuted every shred of evidence one by one. It cannot be done. The
- only recourse opponents can take is to show the universality of the three
- functions among cow herders around the world. I personally don't care that
- trifunctionality is uniquley Indo-European or not. If it is common to all
- pastoral herdsmen, fine.
- 
-Those who profess the theory's lake of usefulness are not in the business of
- creating new pagan structures where only christian ones survived. For me, the
- theory been made seemingly impossible tasks effortless. Therefore we will use
- it despite Dumezil's early involvement with fascism. We are fully anti-fascist,
- anti-bigotry. But we treat works like everything else and divorce insighful
- things from the bigots or abusers who created them. A full analysis of his
- theory will follow eventually with a focus on analysis for fascist ideals being
- put into the theory.
+We'll take the recently uncovered principles of animism, comparative polytheism,
+tri-functional theory, and produce a well thought out worldview and practice.
 
-## Purpose
+### Purpose
 
-The purpose of this letter is to announce the creation of this Org as a new clan
- in the spiritual vein of the old Déis or Déisi.
+The purpose of this letter is to announce the creation of this Project as a
+ Culture, Religion and as a new group of people who practice it. The creation of
+ this clan is in the spiritual vein of the old Déis or Déisi of the 4th century.
 
-Originally a 3rd century artifical clanless designation for vassals and farmers,
- déisi groups with artifically made lore of a lineage from kings eventually
- became a few real clans with real political power. Due to their close
- interactions, common expulsions, or belief in a lore-ideology, déisi groups
- became several real tribes, including the clan to which I belong, clan Ó Dea
- from Ó Deághaidh(grandchild of good luck). 'Godwin' didn't otherwise appear in
- Brittain until much later after the battle of Hastings so it is thought to be a
- form Irish Ó Dea people took on when they went into English speaking areas. The
- Ó Dea's and Godwin's I know who are pagan claim descendancy from the Good God,
- the Dagdae.
+Originally an artificial clanless designation for vassals and farmers, déisi
+ groups with artificially made lore of a lineage from kings eventually became a
+ few real clans with real political power. Due to their close interactions,
+ common expulsions, or belief in a lore-ideology, déisi groups became several
+ real tribes, including one from which the clan I belong claims to descend. The
+ Ó Dea's and Godwin's I've practiced with claim descendancy from the Good God,
+ the Dagdae and that is the god who we will view as our first ancestor(dies
+ pater).
  
- The Déisi also moved into Wales and Britain between 300 and 450 C.E making two
+The Déisi also moved into Wales and Britain between 300 and 450 C.E making three
  things apparent to us:
  
- 1. They were the original Irish diasporans but in the fourth century.
+ 1. They were the original Celtic diasporans but in the 4th century.
  1. Time forges fake clans into real ones.
+ 1. People of Celtic Descent across the entire Celtic spectrum of languages can
+    claim to be descended from a tribe that exists only as an idea.
 
-Greece was divided into artificial tribes that by close proximity become real
- when they switched to a Demogratic government, making them something we can
- reconstruct.
+Greece was divided into artificial tribes that by may by close proximity became
+ real as communities when they switched to a Democratic government, making them
+ something we can reconstruct.
 
 Clan Ó Déa claims to be a sept of Dál gCais(Dalcassians) who claims to be
- founded by the King of Thomond(Co Clare), Cormac(Tál) Cas, son of Conall of the
- Swift Steeds. Yet, modern scholarship has them descending from the Déisi Muman
- of Munster. Regardless, the Dál gCais branched off into a great number of
- lineages:
+ founded by the King of Thomond(Co Clare) named Cormac(Tál) Cas, son of Conall
+ of the Swift Steeds. Yet, modern scholarship says that is the fakelore Déisi
+ Muman of Munster used to solidify their right to power. Regardless, the Dál
+ gCais are claimed as ancestors by a great number of lineages:
 
 O'Curry, O'Cormacan, O'Seasnain, O'Brennan, Glinn, Magan, Muldowney, O'Hurley,
  MacNamara, Harley, Stoney, Hickey, O'Hay, Clancy, Flattery, O'Grady, Tubridy,
@@ -205,16 +182,20 @@ O'Curry, O'Cormacan, O'Seasnain, O'Brennan, Glinn, Magan, Muldowney, O'Hurley,
  O'Kelleher, Boland, O'Casey, Power, Twomey, Ahearne, Magrath, Plenty More.
 
 You do not have to be part of one of these clans to join us. Membership within
- our clan is not dependent on coming from a Celtic background. We believe that
+ our clan is not dependent on coming from a Celtic background, only that your
+ existence ahead of you is Celtic in that you'll practice the culture in this
+ project with us becoming a people by doing so. We believe that
  stay-in-your-own-lane religions always lead to the increase in racism. What we
- do is for everyone who loves it. Your love for it is born of our Béan Sí and
- somehow it left her and entered you, making you our kin.
+ do is for everyone who loves it, even an Englishman who wants to reform himself
+ into one of us. Your love for it is born of our Béan Sí and somehow it left
+ her, traveled the world and entered you, making you our kin. After all, satan
+ comes through the TV.
 
-# Name
+### Name
 
 In Irish and Scottish we'll be known as the Ó Déisi, Mac Déisi or the Déiseanna,
  in Welsh we'll be called the Ap Deiliad, In Gaulsih language we can be refered
- to as Dala. Déis is cognate with Proto-Brythonic *dalg-, from
+ to as the Dala. Déis is cognate with Proto-Brythonic *dalg-, from
  Proto-Indo-European *delgʰ-. Cognate with Latin indulgeo. Proto-Brythonic
  *dalg- from Proto-Indo-European *delgʰ- means to split, divide, cut, carve and
  the English word tiller descends from it making our clan predominantly a
@@ -224,24 +205,19 @@ In Irish and Scottish we'll be known as the Ó Déisi, Mac Déisi or the Déisea
 
 We will practice the same core familial religion in every Celtic language that
  we have septs in. It will not be considered a pan-Celtic religion but a
- core-Celtic religion wide-sweeping variations among cultural subgroups, and
- more localized variations in every house-hold.
+ core-Celtic religion with wide-sweeping variations among cultural subgroups,
+ and more localized variations in every house-hold.
 
-## Ancestors
+### Ancestors
 
-Using the term Déisi invokes the third century groups as well as the twelth
- century ones as our ancestors. We can claim descendency from *Dyeus who tills
- with this weapon, we see that god in Sucellos, Taranis, and Dago Deiwos(the
+Using the term Déisi invokes the third century groups as well as the twelfth
+ century ones as our ancestors. We can claim descendancy from *Dyeus who tills
+ with this weapon, we see that god in Sucellos, Taranis, and as Dago Deiwos(the
  Dagda). He is our first ancestor, our Béan Sí is the local land goddess in
- Clare Anand/Anu in Cailleach form resides in Cahercalla(fort of the Hag). The
- Déisi are expected to pilgrimage to this fort at least once in their lives.
-
-Our tuatha or pobal will be group of any individuals from any backgroun who
- share an affinity with things Celtic. We will research the animist sense of
- personhood and community and don those for ourselves opting to re-indigenize
- ourselves. Not making us native to where we are as a diaspora, but rather
- returning to the view that we belong to the land, that she is our mother.
-
+ Clare named Anand/Anu in Cailleach form resides in Cahercalla(fort of the Hag).
+ The Déisi are expected to pilgrimage to this fort near Magh Adhair at least
+ once in their lives. You can do a [Virtual Pilgrimage](https://voicesfromthedawn.com/magh-adhair/) now.
+ 
 Additionally we also have a foster Béan Sí who is the land goddess upon which we
  now dwell.
 
@@ -253,12 +229,12 @@ I've already started this project and have begun an open-source project called
  not the long term strategy which is to purposefully research and write every
  single topic.
 
-We aim to include everything in the encyclopdea: history, polytheology, liturgy,
+We aim to include everything in the encyclopedia: history, polytheology, liturgy,
  legal structures, art and music, calendars and customs. We'll organize it in
  ways that will be intuitive for folks looking for everything related to this
  and this time or for such and such event.
 
-This is where I need you. I need to build a fullfilling, accurate, culturally
+This is where I need you. I need to help build a fulfilling, accurate, culturally
  responsible, whole cloth, and complete system. So I'm going to need
  contributors and feedback from those who plan to invest in membership when the
  time is read.
@@ -278,7 +254,7 @@ With a little bit of luck, the blessings of the Gods and a great deal of hard
 
 Béal o na nDeithe ort... Blessings of the Gods on you!
 
-Chris Godwin, Deághaidh Ó Déisi, Clan Cheif, Ó Déiseanna
+Chris Godwin, Deághaidh Ó Déisi, Clan Chief, Ó Déiseanna
 
 
 [^first]: Rig-Veda. Mandalas 9—10. VIII, 48.3
