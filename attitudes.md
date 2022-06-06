@@ -234,7 +234,7 @@ where there are no holes. Religions created on short time scales are simply not
 at all as good as older ones in this case because they have been tested for less
 time.
 
-### Acculturation
+## Acculturation
 The process of acculturating to these praxes and rites, ways of being and
  operating, is strictly and primarily done through the reading and following of
  these texts, and mentorship by someone ordained as a priest of these texts. These
@@ -263,7 +263,7 @@ The means of acculturation is immersion in this lore and its people. This lore
    people that are looking for something that is real. - Dennis
    Jennings[^jennings]
 
-### Appropriation
+## Appropriation
 A group of people taking a heritage they have access and rights to, tracking it
  with perfect diligence, defining the praxes and precedents of it, and making it
  available for acculturation, help reduce appropriation. It doesn't just
@@ -291,7 +291,7 @@ Therefore, acculturation to something new and complex involves changing
  and accurate information, and promote a certain set of attitudes that when held
  creates a sacred and respectable Celtic Paganism within most people.
 
-### Picking and Choosing
+## Picking and Choosing
 Compile your religion from the menu of what's available here. A university
  offers all majors though a student specializes in one or more. Eventually the
  goal will be there there'll be so much here you would run yourself ragged trying
@@ -306,7 +306,7 @@ People who take these texts, pick and choose them, toward goals that do not fall
  kids in Wallmart costumes, or a Ferarri vs a child's bicycle, represents the the
  vast difference between recon and post-recon Druids vs 'Celtic Shamans'.
 
-### Emulation instead of Imitation
+## Emulation instead of Imitation
 While emulation is defined by imitation, it is much more than poor imitation.
 
 Emulation is an form of imitation that takes seriously all of a system or
