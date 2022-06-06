@@ -20,7 +20,7 @@ copyright:
 - [ ] Daily Praxes
 - [ ] Prayers
 - [ ] Core Office of Ritual
-- [ ] Copy and pasteable instructions on running a local copy
+- [ ] Copy and paste-able instructions on running a local copy
 - [x] Come up with a solution to include related terms in items
 - [ ] Setup search through algoria
 - [ ] Create a call for contributors page
