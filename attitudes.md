@@ -3,9 +3,7 @@ author: Chris Godwin
 category: Culture
 title: Noble Attitudes Toward Celtic Paganism
 tag: vision
-time: 2022-01-01
-copyright:
-  minLength: 1
+time: 2022-06-06
 ---
 [[toc]]
 
