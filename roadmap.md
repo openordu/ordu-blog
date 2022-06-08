@@ -19,7 +19,6 @@ date: 2022-01-14
 - [ ] Setup search through algoria
 - [ ] Create a call for contributors page
 - [ ] Create a donation page
-- [ ] Create a vision post
 - [ ] Create a call to action page for more maintainers
 - [ ] Mini - SP
 - [ ] High Day Praxes
