@@ -3,9 +3,7 @@ author: Chris Godwin
 category: Planning
 title: Naming the project
 tag: naming
-time: 2022-04-23
-copyright:
-  minLength: 1
+date: 2022-04-23
 ---
 I chose the name `openordú` because it means to me: an open order, an open
 priesthood. I'm not going to get a new domain name just yet. Cporg has not yet

@@ -2,9 +2,7 @@
 author: Chris Godwin
 category: Planning
 tag: roadmap
-time: 2022-01-14
-copyright:
-  minLength: 1
+date: 2022-01-14
 ---
 # Roadmap for 2022
 - [x] Write an algorythm that charts the topography of Celtic Paganism from well used websites(tairis, lairban.blogspot, celt.ucc.ie, maryjones.us, imbas.org).

@@ -3,8 +3,7 @@ author: Chris Godwin
 category: Planning
 title: Vision
 tag: vision
-time: 2022-01-07
-copyright:
+date: 2022-01-07
 ---
 # Vision
 

@@ -4,8 +4,6 @@ category: Planning
 title: An Open Letter to Celtic Pagans
 tag: mission
 date: 2021-12-31
-copyright:
-  minLength: 1
 ---
 # An Open Letter to Celtic Pagans
 Many folks know I've been a clergy postulant with ADF for a while and an

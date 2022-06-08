@@ -2,9 +2,7 @@
 author: Chris Godwin
 category: Planning
 tag: approach
-time: 2022-05-30
-copyright:
-  minLength: 1
+date: 2022-05-30
 ---
 # Bottom Up or Top Down Approach. Which is Better?
 

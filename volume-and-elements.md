@@ -3,9 +3,7 @@ author: Chris Godwin
 category: Interface
 title: Site url volume and static site generators
 tag: architecture
-time: 2022-04-23
-copyright:
-  minLength: 1
+date: 2022-04-23
 ---
 # Site url volume and static site generators
 ## Troubles

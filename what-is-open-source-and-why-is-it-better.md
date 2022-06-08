@@ -3,9 +3,7 @@ author: Chris Godwin
 category: Culture
 title: What OpenSource? Why is it Good or Needed
 tag: vision
-time: 2022-05-16
-copyright:
-  minLength: 1
+date: 2022-05-16
 ---
 # What is OpenSource Religion? Why is it Good or Needed
 
