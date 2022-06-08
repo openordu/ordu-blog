@@ -3,7 +3,7 @@ author: Chris Godwin
 category: Planning
 title: An Open Letter to Celtic Pagans
 tag: mission
-time: 2022-01-01
+date: 2021-12-31
 copyright:
   minLength: 1
 ---
